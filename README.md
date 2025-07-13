@@ -21,13 +21,13 @@
 ## 📸 Screenshots
 
 ### Dashboard Overview
-![Dashboard](./dashboard-page.png.png)
+![Dashboard](./dashboard.png)
 
 ### AI Financial Advice
 ![AI Advisor](./ai-advice.png)
 
 ### Budget Tracking
-![Budgets](./budget-page.png.png)
+![Budgets](./budgets-page.png)
 
 
 ## Getting Started
