@@ -30,7 +30,8 @@
 ![Budgets](./budgets-page.png)
 
 ##  Video
-(./FinanSmart.mp4)
+![Video](./FinanSmart.mp4)
+
 
 ## Getting Started
 
