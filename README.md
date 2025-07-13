@@ -29,8 +29,7 @@
 ### Budget Tracking
 ![Budgets](./budgets-page.png)
 
-##  Video
-![Video](./FinanSmart.mp4)
+
 
 
 ## Getting Started
